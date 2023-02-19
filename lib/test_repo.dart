@@ -1,3 +1,3 @@
-double calculate() {
-  return 6 + 7;
+String calculate() {
+  return "123";
 }
